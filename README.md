@@ -32,8 +32,13 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Odoo Developer<br>- 📚 I'm currently learning OWL<br>- ⚡ In my free time I take  photographs</p>
+<p align="left">I'm from México<br><br>
+  - 🔭 I’m working as Odoo Developer<br>
+  - 📚 I'm currently learning OWL<br>
+  - ⚡ In my free time I take photographs
+</p>
 
+###
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -109,8 +114,9 @@
 </div>
 
 ###
+###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
